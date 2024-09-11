@@ -1,0 +1,30 @@
+/* custom style navbar */
+.navbar {
+    background-color: rgb(4, 4, 97);
+}
+.navbar-toggler {
+    color:white;
+}
+
+/* custome style hero home */
+#home-section {
+    padding: 80px 0px;
+}
+.btn-home {
+    background-color: rgb(4, 4, 97);
+}
+.btn-home:hover {
+    background-color: rgb(235, 129, 8);
+}
+.btn-in-offcanvas {
+    background-color: rgb(2, 2, 71);
+    color: white;
+}
+
+/* Get in touch custom style */
+.submit-btn {
+    background-color: rgb(4, 4, 97);
+    color: white;
+}
+
+
